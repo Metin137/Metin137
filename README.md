@@ -23,7 +23,7 @@ I am Metin, I have been working as a frontend developer for 8 years. I worked mo
 - Build and develop web admin application from stratch.
 
 ## Skills
-Programming: `Javascript` `Typescript` `Dart` `React` `React Native` `Flutter` `Node JS`
+Programming: `Javascript` `Typescript` `Dart` `React` `React Native` `Flutter` `Node JS`\
 Tools: `Adobe XD` `Unity` `Postman` `Photoshop` `XCode` `Android Studio` 
 ## Projects
 #### ABC SCHOOL MANAGEMENT SYSTEM / ABC
@@ -32,14 +32,14 @@ Tools: `Adobe XD` `Unity` `Postman` `Photoshop` `XCode` `Android Studio`
 - Web: https://okul.abc.net.tr/
 
 #### ELECTRICITY BILL REPORT SYSTEM / ENERJISA
-- Web: https://lisanssizuretim.enerjisa.com-
+- Web: https://lisanssizuretim.enerjisa.com
 
 ## Languages
 - English / B2
 - Turkish / Native
 
 ## Contact Information
-> Email: mtnklc137@gmail.com
-> Phone: +905412303165
-> LinkedIn: https://www.linkedin.com/in/metin137
+> Email: mtnklc137@gmail.com\
+> Phone: +905412303165\
+> LinkedIn: https://www.linkedin.com/in/metin137\
 
